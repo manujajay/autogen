@@ -7,7 +7,7 @@ pip install autogen autogenstudio
 
 ## Setup
 - Setup an environment variable called `OPENAI_API_KEY`
-- Run the script below to launch the multi-agent model locally (On Terminal):
+- Run the script to launch the multi-agent model locally (On Terminal):
 ```bash
 python3 autogen_setup.py
 ```
